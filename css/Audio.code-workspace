@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Audio"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Images"
+		}
+	],
+	"settings": {}
+}
